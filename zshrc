@@ -106,6 +106,3 @@ export PATH=/Users/ryn0/Library/Python/3.8/bin:$PATH
 export PATH="/opt/homebrew/opt/openssl@3/bin:$PATH"
 export PATH="/Users/ryn0/tools/bin:$PATH"
 alias bytecodeviewer="java -jar /Users/ryn0/tools/src/Bytecode-Viewer-2.11.2.jar"
-pwndocker () {
-    docker run -it -v $(pwd):/root/work --cap-add=SYS_PTRACE --security-opt="seccomp=unconfined" "pwn:$1"
-}

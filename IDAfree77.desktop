@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=Application;Development;
+Comment[en_US]=IDA Freeware 7.7
+Comment=idafreeware 7.7
+Exec=/home/ryn0/tools/src/idafree-7.7/ida64
+GenericName[en_US]=IDA Freeware 7.7
+GenericName=IDA Freeware 7.7
+Icon=/home/ryn0/tools/src/idafree-7.7/appico64.png
+MimeType=
+Name[en_US]=IDAfreeware 7.7 
+Name=IDAfreeware 7.7
+Path=/home/ryn0/tools/src/idafree-7.7/
+StartupNotify=false
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-DBUS-ServiceName=
+X-DBUS-StartupType=none
+X-KDE-SubstituteUID=false
+X-KDE-Username=

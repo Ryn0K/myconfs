@@ -1,0 +1,21 @@
+[Desktop Entry]
+Categories=Application;Development;
+Comment[en_US]=Ghidra Software Reverse Engineering Suite
+Comment=Ghidra Software Reverse Engineering Suite
+Exec=/home/ryn0/tools/src/ghidra/ghidraRun
+GenericName[en_US]=Ghidra Software Reverse Engineering Suite
+GenericName=Ghidra Software Reverse Engineering Suite
+Icon=/home/ryn0/tools/src/ghidra/support/Ghidra.png
+MimeType=
+Name[en_US]=Ghidra 10.1.3 
+Name=Ghidra 10.1.3
+Path=/home/ryn0/tools/src/ghidra/
+StartupNotify=false
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-DBUS-ServiceName=
+X-DBUS-StartupType=none
+X-KDE-SubstituteUID=false
+X-KDE-Username=
